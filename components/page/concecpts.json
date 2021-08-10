@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_concecpts",
+  "info": {
+    "name": "concecpts",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
